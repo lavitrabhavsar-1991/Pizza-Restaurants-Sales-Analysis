@@ -17,7 +17,7 @@ Restaurant operators make several high-stakes decisions daily suvh as staffing l
 ## KPIs at a Glance
 | Metric | Value |
 |---|---|
-| Total Revenue | $817,860 |
+| Total Revenue | $8,17,860 |
 | Average Order Value | $38.31 |
 | Total Pizzas Sold | 49,573 |
 | Total Orders | 21,350 |
