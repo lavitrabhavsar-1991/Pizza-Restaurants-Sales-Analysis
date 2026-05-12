@@ -12,7 +12,7 @@ Restaurant operators make several high-stakes decisions daily suvh as staffing l
 2. Which days of the week and hours of the day drive the most orders?
 3. Which pizza categories and sizes contribute the most to sales?
 4. What are the top 5 best-selling and worst-selling pizzas by quantity?
-5. rfg
+5. What is the Future Course of Actions for the Business?
 
 ## KPIs at a Glance
 | Metric | Value |
