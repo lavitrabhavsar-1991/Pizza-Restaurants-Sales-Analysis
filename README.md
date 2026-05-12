@@ -24,7 +24,7 @@ Restaurant operators make several high-stakes decisions daily suvh as staffing l
 | Avg Pizzas per Order | 2.32 |
 
 ## Key Findings from the analysis
-### Peak Days & Times
+### Peak Days & Hours
 - **Busiest days:** Friday (3,538 orders) and Saturday (3,158 orders) drive the highest volume across the week consistently. 
 - **Peak hours:** 12–1 PM (lunch rush) and 5–6 PM (dinner rush), with order volume dropping steeply after 9 PM
 
@@ -32,7 +32,7 @@ Restaurant operators make several high-stakes decisions daily suvh as staffing l
 - **Classic** pizzas lead all categories at 26.91% of total sales, followed closely by Supreme (25.46%)
 - **Large** size dominates at 45.89% of sales which is over 4× times the share of any other size
 
-### 🏆 Best & Worst Performers
+### Best & Worst Selling Performers
 - **Top sellers:** The Classic Deluxe Pizza (2,453 units) and The Thai Chicken Pizza (2,453 units) are both classic crowd-pleasers
 - **Worst performer:** The Brie Carre Pizza (490 units) significantly underperforms compared to the next-lowest seller and needs to be evaluated
 
